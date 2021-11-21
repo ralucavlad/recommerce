@@ -1,6 +1,6 @@
 # recommerceapp
 
-Please clone or download the code, and run:
+Please clone or download the code, and run:   
 npm install  
 npm run serve  
 
